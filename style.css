@@ -18,6 +18,8 @@ body {
 }
 .half-width {
   width: 50%;
+  margin-top: 60px;
+  margin-left: 20px;
 }
 .half-width img {
   width: 350px;
@@ -27,7 +29,9 @@ body {
   width: 450px;
 }
 .second-section {
-  background-color: rgb(241, 227, 201);
+  background-image: url("images/shapes/shape1.png");
+  background-repeat: no-repeat;
+  background-position: left;
 }
 .text-align {
   text-align: center;
